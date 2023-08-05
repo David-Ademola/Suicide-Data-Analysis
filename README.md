@@ -18,6 +18,7 @@ Numerical features, "population" and " gdp_for_year ($) ", are scaled using the 
 
 ## Visualization and Analysis:
 The processed data is now ready for visualization. Using the matplotlib software a bar chart of the age groups and suicide rates was created allowing me to easily see which age groups had the highest suicide rates.
+![image](https://github.com/David-Ademola/Suicide-Data-Analysis/assets/131247654/6bd0ee0e-e040-411a-8c68-58d517410ec0)
 
 ## Conclusion:
 The "Machine Learning for Suicide Data Analysis" project demonstrates essential data preprocessing steps required before applying machine learning algorithms to analyze suicide-related data. By encoding categorical features and scaling numerical ones, the data is made suitable for various machine learning models. The preprocessed dataset provides a foundation for further exploratory data analysis and modeling to gain insights into the factors affecting suicide rates worldwide.
